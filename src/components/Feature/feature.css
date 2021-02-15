@@ -1,0 +1,29 @@
+.feature {
+  position: relative;
+  text-align: center;
+  padding: 50px 27px;
+  background-color: white;
+}
+.feature .icon-round {
+  display: inline-block;
+  width: 125px;
+  height: 125px;
+  border-radius: 4em;
+  background-color: white;
+  box-shadow: 0px 0px 6px 0px rgba(64, 199, 255, 0.32);
+}
+.feature .icon-round img {
+  position: relative;
+  top: 30px;
+  left: 0px;
+}
+.feature h4 {
+  font-size: 24px;
+  color: #f26522;
+}
+.feature p {
+  font-size: 16px;
+  color: #898989;
+}
+
+/*# sourceMappingURL=feature.css.map */

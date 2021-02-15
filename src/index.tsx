@@ -1,6 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+
+import './assets/css/index.css'
+import './assets/css/section-1.css'
+import './assets/css/section-2.css'
+import './assets/css/section-3.css'
+import './assets/css/section-4.css'
+import './assets/css/section-5.css'
+
+import 'purecss/build/base.css'
+import 'purecss/build/pure.css'
+import 'purecss/build/grids-responsive.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

@@ -1,0 +1,24 @@
+@import '../../assets/css/colors';
+
+h2.with-decor {
+  span {
+    position: relative;
+    display: block;
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 1px;
+    background-color: $color-gray-dark;
+
+    &:before {
+      content: "";
+      top: -3px;
+      position: relative;
+      display: block;
+      width: 100pt;
+      height: 7px;
+      margin: 0 auto;
+      background-color: $color-orang;
+    }
+  }
+}

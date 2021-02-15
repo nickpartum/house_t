@@ -1,0 +1,25 @@
+.section-1 .section-1-1 {
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 320px;
+}
+.section-1 .section-1-1 h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.section-1 .section-1-1 p {
+  color: white;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.with-bg-image-1 {
+  background-image: url("../img/house-1-1.png"), url("../img/house-1-2.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: 15px bottom, right bottom;
+}
+
+/*# sourceMappingURL=section-1.css.map */

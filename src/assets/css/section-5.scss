@@ -1,0 +1,97 @@
+.section-5 {
+  margin-top: 80px;
+  padding-bottom: 90px;
+  h3, h4 {
+    margin: 0;
+  }
+  .section-5-1 {
+    padding: 25px;
+    background-color: white;
+    h3 {
+      margin-top: 35px;
+      text-align: center;
+      font-size: 36px;
+      color: #f26522;
+    }
+    p {
+      margin: 30px 0;
+      font-size: 20px;
+      color: #707070;
+    }
+    .pure-form {
+      margin: 20px 0;
+      input {
+        width: 100%;
+        padding: 25px;
+        font-size: 16px;
+        color: #bdbdbd;
+        border: 1px solid #e0e6e6;
+      }
+      button {
+        width: 100%;
+        padding: 25px;
+        font-size: 18px;
+        color: white;
+        background-color: #f36523;
+      }
+    }
+  }
+  .section-5-2 {
+    padding: 30px;
+    background-color: white;
+    h4 {
+      margin: 10px 0;
+      font-size: 30px;
+      color: #333333;
+    }
+    .pure-form {
+      input {
+        margin: 10px 0;
+        width: 100%;
+        font-size: 16px;
+        color: #b7b7b7;
+        padding: 20px 15px;
+        border: 1px solid #cff0ff;
+      }
+      textarea {
+        width: 100%;
+        font-size: 16px;
+        color: #b7b7b7;
+        padding: 20px 15px;
+        resize: none;
+        border: 1px solid #cff0ff;
+
+      }
+      button {
+        //float: right;
+        font-size: 18px;
+        color: white;
+        padding: 25px;
+        //min-width: 210px;
+        min-width: 100%;
+        background-color: #f36523 ;
+      }
+    }
+
+  }
+}
+.with-bg-image-5{
+  background-image: url('../img/house-5.png');
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  //background-position-y: 1px;
+}
+
+@media screen and (min-width: 48em) {
+  .section-5 {
+    .section-5-2 {
+      .pure-form {
+        button {
+          float: right;
+          min-width: 210px;
+        }
+      }
+    }
+  }
+}
+

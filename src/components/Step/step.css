@@ -1,0 +1,21 @@
+.step {
+  position: relative;
+  text-align: center;
+  padding: 50px 27px;
+  background-color: white;
+}
+.step h3 {
+  font-size: 36px;
+  color: #f26522;
+  margin: 0;
+}
+.step h4 {
+  font-size: 22px;
+  color: #f26522;
+}
+.step p {
+  font-size: 16px;
+  color: #898989;
+}
+
+/*# sourceMappingURL=step.css.map */

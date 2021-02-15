@@ -1,0 +1,14 @@
+.footer {
+  position: relative;
+  margin: 0 auto;
+  margin-top: -14px;
+  padding: 2.5em 1.5em;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16pt;
+  color: #b7b7b7;
+  background: #1e1e1e;
+  z-index: -1;
+}
+
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,13 @@
+@import '../../assets/css/colors';
+.footer {
+  position: relative;
+  margin: 0 auto;
+  margin-top: -14px;
+  padding: 2.5em 1.5em;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+  color: $color-gray-light;
+  background: $color-black;
+  z-index: -1;
+}
