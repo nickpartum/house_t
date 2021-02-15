@@ -3,11 +3,7 @@
   <component name="ProjectTasksOptions">
     <TaskOptions isEnabled="true">
       <option name="arguments" value="$FileName$:$FileNameWithoutExtension$.css" />
-<<<<<<< HEAD
-      <option name="checkSyntaxErrors" value="false" />
-=======
       <option name="checkSyntaxErrors" value="true" />
->>>>>>> f174d2b67289e73c0c64f03d4ec2db77097a5561
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />

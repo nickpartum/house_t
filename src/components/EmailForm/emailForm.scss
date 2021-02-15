@@ -1,3 +1,4 @@
+@import '../../assets/css/colors';
 .form-with-border {
   position: relative;
   display: inline-block;
@@ -17,25 +18,22 @@
       padding-left: 70px!important;
     }
     input::placeholder {
-      color: #d9d9d9;
+      color: $color-gray-light;
     }
     input {
       font-size: 16px;
-      color: #7f7f7f;
+      color: $color-gray;
       padding: 25px 20px!important;
       border: 0;
       border-radius: 0!important;
-      //float: left;
-      //width: 540px;
       width: 100%;
     }
     button {
       color: white;
       font-size: 18px;
-      background-color: #f36523;
+      background-color: $color-orang;
       padding: 25px 20px!important;
       border-radius: 0!important;
-      //float: left;
       line-height: 18px;
       width: 100%;
     }
